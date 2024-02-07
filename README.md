@@ -4,7 +4,7 @@
   <h2>👋 안녕하세요! 웹 백엔드 개발자, 김재승 입니다!<br>Hi! I'm Kim Jae-seung, a Web BackEnd Developer! 😀</h2>
 
   <h3>😝About Me</h3>
-  <p align="left">
+  <p text-align="left">
     
     🏢 Dept. of Computer Science and Engineering, BUFS (2019.2 ~ )
 
@@ -14,97 +14,32 @@
 
     🦁 LIKELION univ 12th BackEnd (2024.2 ~ )
   </p>
-  <table align="center" width="1000" float="left" border-collapse="collapse">
-    <tr align="center">
-      <td colspan = "3">    
-        <h3>
-          🔗 Tech Stack
-        </h3>
-      </td>
-    </tr>
-    <tr align="center">
-      <td>
-        ✅ Can Used
-      </td>
-      <td>
-        ✏️ Still Studying
-      </td>
-      <td>
-        💡Will Study
-      </td>
-    </tr>
-    <tr align="center">
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr align="center">
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr align="center">
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr align="center">
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr align="center">
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-- JAVA
-- Spring
-- Spring Boot
-- MySQL
-- Git / GitHub
-
-## ✏️ Still Studying
-
-- AWS
-- Docker
-
-## 💡Will Study
-
-- Another DB
-- Node.js
-- JavaScript
-- React
-</table>
-  <br>
-</div>
   
-  
-  
-  
-  
-  
-  
-  
-  
-  <!--
-**rlawotmd/rlawotmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- </div> -->
-<!-- favorite color code : 2 25 13 12 5/ 4
-![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kimjs1012)
-![rlawotmd's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlawotmd&hide=contribs,prs&show_icons=true&theme=Gradient)-->
+  <h2>🔗 Tech Stack</h2>
+  <p text-align="center">
+    <h3>✅ Can Used</h3>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+    <h3>✏️ Still Studying</h3>
+    <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
+    <h3>💡 Will Study</h3>
+    <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/FastAPI-008080?style=for-the-badge&logo=FastAPI&logoColor=white">
+    <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
+    <h3>🎨 Tools</h3>
+    <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+  </p>
+<!-- favorite color code : 2 25 13 12 5/ 4 -->
+<!-- ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kimjs1012) -->
+<!-- ![rlawotmd's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlawotmd&hide=contribs,prs&show_icons=true&theme=Gradient) -->
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto&customColorList=4&height=100)
 ###
