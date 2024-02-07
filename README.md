@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?section=header&type=waving&color=auto&customColorList=12&height=100&width=100%)
 ###
 <div text-align="center">
-  <h2>👋 안녕하세요! 웹 백엔드 개발자, 김재승 입니다!<br>Hi! I'm Kim Jae-seung, a Web BackEnd Developer! 😀</h2>
+  <h2 align="center">👋 안녕하세요! 웹 백엔드 개발자, 김재승 입니다!<br>Hi! I'm Kim Jae-seung, a Web BackEnd Developer! 😀</h2>
 
   <h3>😝About Me</h3>
   <p text-align="center">
@@ -16,7 +16,7 @@
   </p>
   
   <h2>🔗 Tech Stack</h2>
-  <p text-align="center">
+  <p align="center">
     <h3>✅ Can Used</h3>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
