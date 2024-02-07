@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto&customColorList=13)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto&customColorList=5)
 
 <!-- 2 25 13 12 5/ (4) 9 7-->
