@@ -1,11 +1,38 @@
 ![header](https://capsule-render.vercel.app/api?section=header&type=waving&color=auto&customColorList=12&height=100&width=100%)
 ###
 <div align="center">
-  <h2>👋 안녕하세요! 웹 백엔드 개발자, 김재승 입니다!<br>Hi! I'm Kim Jae-seung, a web backend developer! 😀</h2>
-  <br>
-  <h2>Tech Stack</h2>
-  ## ✅ Can Used
+  <h2>👋 안녕하세요! 웹 백엔드 개발자, 김재승 입니다!<br>Hi! I'm Kim Jae-seung, a Web BackEnd Developer! 😀</h2>
 
+  <h3>😝About Me</h3>
+  <p align="left">
+    
+    🏢 Dept. of Computer Science and Engineering, BUFS (2019.2 ~ )
+
+    🍀 GreenBee (Dept. Club) (2022.11 ~ )
+
+    🦁 LIKELION univ 11th BackEnd (2023.3 ~ 2024.2)
+
+    🦁 LIKELION univ 12th BackEnd (2024.2 ~ )
+  </p>
+  <table align="center" width="1000">
+    <tr align="center">
+      <td colspan = "3">    
+        <h2>
+          🔗 Tech Stack
+        </h2>
+      </td>
+    </tr>
+    <tr align="center">
+      <td>
+        ✅ Can Used
+      </td>
+      <td>
+        ✏️ Still Studying
+      </td>
+      <td>
+        💡Will Study
+      </td>
+    </tr>
 - JAVA
 - Spring
 - Spring Boot
@@ -23,7 +50,7 @@
 - Node.js
 - JavaScript
 - React
-
+</table>
   <br>
 </div>
   
@@ -51,7 +78,8 @@ Here are some ideas to get you started:
 -->
 
 <!-- </div> -->
-<!-- favorite color code : 2 25 13 12 5/ 4-->
+<!-- favorite color code : 2 25 13 12 5/ 4
 ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kimjs1012)
+![rlawotmd's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlawotmd&hide=contribs,prs&show_icons=true&theme=Gradient)-->
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto&customColorList=4&height=100)
 ###
