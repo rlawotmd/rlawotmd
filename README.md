@@ -1,8 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?section=header&type=waving&color=auto&customColorList=12&height=100&width=100%)
 ###
 <div align="center">
-  <h3>👋 안녕하세요! 웹 백엔드 개발자, 김재승 입니다!<br>Hi! I'm Kim Jae-seung, a web backend developer! 😀</h3>
-  <hr height="1px">
+  <h2>👋 안녕하세요! 웹 백엔드 개발자, 김재승 입니다!<br>Hi! I'm Kim Jae-seung, a web backend developer! 😀</h2>
+  <br>
+  <h2>Skills</h2>
+  <h5>Languahes</h5>
+  <br>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kimjs1012)](https://solved.ac/kimjs1012)
 
   
   
