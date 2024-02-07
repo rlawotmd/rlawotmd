@@ -33,7 +33,7 @@
         💡Will Study
       </td>
     </tr>
-<!-- - JAVA
+- JAVA
 - Spring
 - Spring Boot
 - MySQL
