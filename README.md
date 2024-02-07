@@ -7,7 +7,6 @@
   <h5>Languahes</h5>
   <br>
 </div>
-  ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kimjs1012)
   
   
   
@@ -34,6 +33,6 @@ Here are some ideas to get you started:
 
 <!-- </div> -->
 <!-- favorite color code : 2 25 13 12 5/ 4-->
-
+![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kimjs1012)
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto&customColorList=4&height=100)
 ###
