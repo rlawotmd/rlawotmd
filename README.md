@@ -2,7 +2,7 @@
 ###
 <div align="center">
   <h3>👋 안녕하세요! 웹 백엔드 개발자, 김재승 입니다!<br>Hi! I'm Kim Jae-seung, a web backend developer! 😀</h3>
-  <hr height=1px>
+  <hr height="1px">
 
   
   
