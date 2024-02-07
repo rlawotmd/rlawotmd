@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?section=header&type=waving&color=auto&customColorList=12&height=100)
-<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?section=header&type=waving&color=auto&customColorList=12&height=100)
 👋 안녕하세요! 웹 백엔드 개발자, 김재승 입니다!<br>Hi! I'm Kim Jae-seung, a web backend developer! 😀
 <!--
@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto&customColorList=4&height=100)
 
 <!-- favorite color code : 2 25 13 12 5/ 4-->
-</div>
+
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto&customColorList=4&height=100)
