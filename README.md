@@ -2,7 +2,7 @@
 
 
 ###
-<div align: "center">👋 안녕하세요! 웹 백엔드 개발자, 김재승 입니다!<br>Hi! I'm Kim Jae-seung, a web backend developer! 😀
+<div align="center">👋 안녕하세요! 웹 백엔드 개발자, 김재승 입니다!<br>Hi! I'm Kim Jae-seung, a web backend developer! 😀
 <!--
 **rlawotmd/rlawotmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
