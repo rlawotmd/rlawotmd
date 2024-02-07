@@ -1,4 +1,4 @@
-&section=header:![header](https://capsule-render.vercel.app/api?section=footer)
+![header](https://capsule-render.vercel.app/api?section=header)
 ### Hi there 👋
 
 <!--
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-&section=footer:![footer](https://capsule-render.vercel.app/api?section=footer)
+![footer](https://capsule-render.vercel.app/api?section=footer)
