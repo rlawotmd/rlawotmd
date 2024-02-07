@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto&customColorList=25)
 
-<!-- 2, 4 -->
+<!-- 2 26 / 4 -->
