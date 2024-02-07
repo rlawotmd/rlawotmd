@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=#89F6FA)
+
