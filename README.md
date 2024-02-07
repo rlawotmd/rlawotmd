@@ -2,7 +2,7 @@
 
 
 ###
-👋 안녕하세요! 웹 백엔드 개발자, 김재승 입니다!<br>Hi! I'm Kim Jae-seung, a web backend developer! 😀
+<div align: "center">👋 안녕하세요! 웹 백엔드 개발자, 김재승 입니다!<br>Hi! I'm Kim Jae-seung, a web backend developer! 😀
 <!--
 **rlawotmd/rlawotmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 -->
 
 <!-- favorite color code : 2 25 13 12 5/ 4-->
-
+</div>
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto&customColorList=4&height=100)
