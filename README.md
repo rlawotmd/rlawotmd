@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 -->
 
 </div>
-
+<!-- favorite color code : 2 25 13 12 5/ 4-->
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto&customColorList=4&height=100)
 ###
-<!-- favorite color code : 2 25 13 12 5/ 4-->
