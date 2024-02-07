@@ -14,7 +14,7 @@
 
     🦁 LIKELION univ 12th BackEnd (2024.2 ~ )
   </p>
-  <table align="center" width="1000" float="left">
+  <table align="center" width="1000" float="left" border-collapse="collapse">
     <tr align="center">
       <td colspan = "3">    
         <h3>
@@ -33,10 +33,30 @@
         💡Will Study
       </td>
     </tr>
-    <tr>
-      <td>asdf</td>
-      <td>asdf</td>
-      <td>asdf</td>
+    <tr align="center">
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr align="center">
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr align="center">
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr align="center">
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr align="center">
+      <td></td>
+      <td></td>
+      <td></td>
     </tr>
 - JAVA
 - Spring
