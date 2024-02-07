@@ -38,6 +38,9 @@
     <h3>🎨 Tools</h3>
     <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+    <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+    <img src="https://img.shields.io/badge/figma-00D8E0?style=for-the-badge&logo=figma&logoColor=white">
+    
   </p>
   </div>
 <!-- favorite color code : 2 25 13 12 5/ 4 -->
