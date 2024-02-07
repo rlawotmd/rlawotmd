@@ -32,6 +32,9 @@
       <td>
         💡Will Study
       </td>
+      <td>asdf</td>
+      <td>asdf</td>
+      <td>asdf</td>
     </tr>
 - JAVA
 - Spring
