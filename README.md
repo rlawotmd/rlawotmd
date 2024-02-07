@@ -14,12 +14,12 @@
 
     🦁 LIKELION univ 12th BackEnd (2024.2 ~ )
   </p>
-  <table align="center" width="1000" writing-mode="vertical-rl">
+  <table align="center" width="1000" float="left">
     <tr align="center">
       <td colspan = "3">    
-        <h2>
+        <h3>
           🔗 Tech Stack
-        </h2>
+        </h3>
       </td>
     </tr>
     <tr align="center">
