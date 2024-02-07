@@ -32,6 +32,8 @@
       <td>
         💡Will Study
       </td>
+    </tr>
+    <tr>
       <td>asdf</td>
       <td>asdf</td>
       <td>asdf</td>
