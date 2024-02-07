@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?section=header&type=waving&color=(#F98B88))
+![header](https://capsule-render.vercel.app/api?section=header&type=waving&color="Peach Pink")
 ### Hi there 👋
 
 <!--
