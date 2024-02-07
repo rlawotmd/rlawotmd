@@ -6,8 +6,8 @@
   <h2>Skills</h2>
   <h5>Languahes</h5>
   <br>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kimjs1012)](https://solved.ac/kimjs1012)
-
+  ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kimjs1012)](https://solved.ac/kimjs1012)
+  ###
   
   
   
