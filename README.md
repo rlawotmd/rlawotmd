@@ -7,7 +7,8 @@
   <h5>Languahes</h5>
   <br>
 </div>
-  ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kimjs1012)
+  ![Solved.ac Profile]
+  (http://mazassumnida.wtf/api/generate_badge?boj=kimjs1012)
   ###
   
   
