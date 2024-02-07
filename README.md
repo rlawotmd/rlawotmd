@@ -14,9 +14,10 @@
     
     🦁 LIKELION univ 12th BackEnd (2024.2 ~ )
   </p>
-  
+
+  <div align="center">
   <h2>🔗 Tech Stack</h2>
-  <p align="center">
+  <p>
     <h3>✅ Can Used</h3>
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
@@ -38,6 +39,7 @@
     <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
   </p>
+  </div>
 <!-- favorite color code : 2 25 13 12 5/ 4 -->
 <!-- ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kimjs1012) -->
 <!-- ![rlawotmd's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlawotmd&hide=contribs,prs&show_icons=true&theme=Gradient) -->
