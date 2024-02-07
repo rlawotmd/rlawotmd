@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?section=header&type=waving&color=auto&customColorList=18)
+![header](https://capsule-render.vercel.app/api?section=header&type=waving&color=auto&customColorList=16)
 ### Hi there 👋
 
 <!--
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto&customColorList=17)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=auto&customColorList=15)
 
 <!-- 2 25 / 4 -->
