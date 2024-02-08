@@ -3,7 +3,7 @@
 <div text-align="center">
   <h2 align="center">👋 안녕하세요! 웹 백엔드 개발자, 김재승 입니다!<br>Hi! I'm Kim Jae-seung, a Web BackEnd Developer! 😀</h2>
 
-  <h3 align="center">😝About Me</h3>
+  <h3 align="center">About Me 😝</h3>
   <p text-align="center">
     
     🏢 Dept. of Computer Science and Engineering, BUFS (2019.2 ~ )
