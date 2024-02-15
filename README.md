@@ -6,7 +6,7 @@
   <h3 align="center">About Me 😝</h3>
   <p text-align="center">
     
-    🏢 Dept. of Computer Science and Engineering, BUFS (2019.2 ~ )
+    🏢 Dept. of Computer Science and Engineering, BUFS (2019.3 ~ )
     
     🍀 GreenBee (Dept. Club) (2022.11 ~ )
   
