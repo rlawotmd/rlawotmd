@@ -10,9 +10,9 @@
     
     🍀 GreenBee (Dept. Club) (2022.11 ~ )
   
-    🦁 LIKELION univ 11th BackEnd (2023.3 ~ 2024.2)
+    🦁 LIKELION UNIV. 11th BackEnd (2023.3 ~ 2024.2)
     
-    🦁 LIKELION univ 12th BackEnd (2024.2 ~ )
+    🦁 LIKELION UNIV. 12th BackEnd (2024.2 ~ )
   </p>
 
   <div align="center">
