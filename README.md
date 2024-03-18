@@ -7,6 +7,8 @@
   <p text-align="center">
     
     🏢 Dept. of Computer Science and Engineering, BUFS (2019.3 ~ )
+
+    🇰🇷 Republic of Korea Army Special Forces (13th Special Mission Brigade) (2020.2 ~ 2021.8)
     
     🍀 GreenBee (Dept. Club) (2022.11 ~ )
   
