@@ -17,6 +17,8 @@
     🦁 LIKELION UNIV. 12th BackEnd (2024.2 ~ )
 
     🌎 Google Developer Student Clubs PKNU 4th BackEnd (2024.3 ~ )
+
+    👨‍💻 LG U+ URECA 1th BackEnd (2024.6 ~ )
   </p>
 
   <div align="center">
