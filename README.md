@@ -36,12 +36,12 @@
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
           <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white">
           <h3>🎨 Tools 🎨</h3>
-          <img src="https://img.shields.io/badge/intellijidea-000000?style=flat&logo=intellijidea&logoColor=white">
+          <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=intellijidea&logoColor=white">
           <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white">
-          <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white">
+          <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white">
           <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
           <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
-          <img src="https://img.shields.io/badge/figma-00D8E0?style=flat&logo=figma&logoColor=white">
+          <img src="https://img.shields.io/badge/Figma-00D8E0?style=flat&logo=figma&logoColor=white">
           <br>
         </div>
       </div>
